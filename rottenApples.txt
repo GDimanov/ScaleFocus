@@ -5,4 +5,6 @@ Second input is the number of days the apples will be traveling to the shop.
 For each day the apples are traveling the good apples next to the rotten one become rotten too.
 Print the array at the end of the given period.
 
-
+Example: 0 0 0 0 1 0 0 1 0 0 
+days to travel 2 
+Output : 0 0 1 1 1 1 1 1 1 1
