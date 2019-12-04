@@ -1,0 +1,8 @@
+Find the number of rotten apples when they reach the shop.
+Input is a stream of 1 , 0 separated by space. There must be ad least one rotten apple /"1"/
+Second input is the number of days the apples will be traveling to the shop.
+
+For each day the apples are traveling the good apples next to the rotten one become rotten too.
+Print the array at the end of the given period.
+
+
